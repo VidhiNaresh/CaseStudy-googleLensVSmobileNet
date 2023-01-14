@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(142, 219, 171);
+}
+.test_div{
+    background-color:rgb(70, 109, 70);
+border-radius: 50px;
+color: white;
+margin-left: 100px;
+margin-bottom: 15px;
+}
+.heading{
+    width:80mm;
+
+}
+.copy_right_footer{
+    background-color: rgb(211, 211, 211);
+    position: fixed;
+    width:100%;
+padding: 10px;
+color: black;
+bottom: 0;
+text-align: center;
+font-family: fantasy;
+margin-top:10px;
+}
+.p1{
+    color: firebrick;
+    font-weight: 600;
+}
+h1{
+    font-size: 20px !important;
+}
+.hr1{
+    width: 10cm;
+    background-color: black;
+}
+.result_div{
+    background-color: rgb(255, 83, 3);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(226, 111, 45);
+    text-align:left;
+    font-weight: 600;
+    color: antiquewhite;
+    margin-bottom: 100px;
+}
+b{
+    color: rgb(201, 178, 148);
+}
